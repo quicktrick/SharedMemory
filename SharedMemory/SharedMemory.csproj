@@ -27,6 +27,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BufferWithLocks.cs" />
+    <Compile Include="CBuffer.cs" />
     <Compile Include="CircularBuffer.cs" />
     <Compile Include="SharedHeader.cs" />
     <Compile Include="MemoryMappedFiles\MemoryMappedFile.cs" />
